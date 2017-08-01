@@ -1,0 +1,1 @@
+Retrieves ads from Xyfir Ads' [public repository](https://github.com/Xyfir/Ads).
